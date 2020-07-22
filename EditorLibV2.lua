@@ -74,3 +74,5 @@ EditorLib.new = function(Name)
     end;
     return EditorLibInstance;
 end;
+
+print("sex")
